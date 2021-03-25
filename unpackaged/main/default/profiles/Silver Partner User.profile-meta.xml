@@ -94,6 +94,11 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <applicationVisibilities>
+        <application>th_con_app__Trailhead_Playground</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -2190,6 +2195,10 @@
     <tabVisibilities>
         <tab>standard-report</tab>
         <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>th_con_app__Welcome</tab>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <userLicense>Silver Partner</userLicense>
     <userPermissions>

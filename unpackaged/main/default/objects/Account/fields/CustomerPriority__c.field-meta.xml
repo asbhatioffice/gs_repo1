@@ -24,6 +24,11 @@
                 <default>false</default>
                 <label>Medium</label>
             </value>
+            <value>
+                <fullName>Very high</fullName>
+                <default>false</default>
+                <label>Very high</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
